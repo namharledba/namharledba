@@ -12,22 +12,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs_dir: dist
-      - uses: actions/upload-artifact@v4
+          svg_out_path: dist/github-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
-          name: snake
-          path: dist/
-      - uses: peter-evans/repository-dispatch@v2
-        with:
-          event-type: snake-animation
-          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
