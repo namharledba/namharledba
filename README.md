@@ -1,42 +1,48 @@
-# Hey, I'm [Your name] 👋
+# Hey, I'm Abdelrahman 👋
 
-### [Your role or what you're learning]
+### Junior AI & ML student at MTI University, Egypt
 
-I [what you do or are interested in] and enjoy building [the kinds of things you like to build].
+I like my problems complex, my algorithms efficient, and my coffee... probably optional. I'm exploring **machine learning, AI, and deep learning**, with a soft spot for the math that makes them work.
 
 <p>
-  <a href="#about-me">About me</a> ·
-  <a href="#what-im-up-to">What I'm up to</a> ·
-  <a href="#find-me">Find me</a>
+  <a href="#the-human-behind-the-model">The human</a> ·
+  <a href="#current-quest">Current quest</a> ·
+  <a href="#my-toolbox-so-far">Toolbox</a> ·
+  <a href="#the-long-game">The long game</a>
 </p>
 
-<details id="about-me">
-  <summary>✨ A little more about me</summary>
+<details id="the-human-behind-the-model">
+  <summary>🧠 The human behind the model</summary>
 
-  - 🔭 I’m currently working on **[project or area]**
-  - 🌱 I’m currently learning **[skill or topic]**
-  - 💬 Ask me about **[topics you enjoy]**
-  - ⚡ Fun fact: **[something memorable about you]**
+  - 🎓 Studying AI and machine learning at **MTI University** in Egypt
+  - 🔍 Curious about **AI, machine learning, and deep learning**
+  - ➗ Happiest when there’s **math or a good algorithm** to figure out
 </details>
 
-<details id="what-im-up-to">
-  <summary>🛠️ What I'm up to</summary>
+<details id="current-quest">
+  <summary>🗺️ Current quest: learn Rust without fighting the borrow checker (too much)</summary>
 
-  **Things I like building:** [apps, tools, designs, or other interests]
+  **Learning next:** Rust 🦀
 
-  **Tools I use:** [languages, frameworks, and tools]
+  **Already coding in:** Python and C++
 
-  **Open to:** [collaborations, opportunities, or just connecting]
+  **Always exploring:** How the math and algorithms turn into intelligent systems
 </details>
 
-<details id="find-me">
-  <summary>📬 Find me around the web</summary>
+<details id="my-toolbox-so-far">
+  <summary>🧰 My toolbox so far</summary>
 
-  - [Website or portfolio](https://example.com)
-  - [LinkedIn](https://linkedin.com/in/your-profile)
-  - [Email](mailto:you@example.com)
+  - **Python** — experimenting and building
+  - **C++** — solving problems and learning the low-level details
+  - **Rust** — the next language on my learning list
+</details>
+
+<details id="the-long-game">
+  <summary>🚀 The long game: build something big</summary>
+
+  I want to keep learning, collaborate with curious people, and eventually work on **ambitious projects** that bring AI from interesting ideas to useful things.
 </details>
 
 ---
 
-<sub>👆 Replace the bracketed prompts and example links with your details, then remove this note. The expandable sections make this bio interactive on your GitHub profile.</sub>
+<sub>Built from curiosity, math, and an unreasonable number of open tabs.</sub>
