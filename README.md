@@ -32,9 +32,9 @@ I like my problems complex, my algorithms efficient, and my coffee... probably o
 <details id="my-toolbox-so-far">
   <summary>🧰 My toolbox so far</summary>
 
-  - **Python** — experimenting and building
-  - **C++** — solving problems and learning the low-level details
-  - **Rust** — the next language on my learning list
+  - **Languages:** Python, C++, and SQL
+  - **Platforms:** Google Colab and Kaggle for exploring and experimenting with ML
+  - **Next language to learn:** Rust 🦀
 </details>
 
 <details id="the-long-game">
