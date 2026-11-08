@@ -24,6 +24,8 @@ I like my problems complex, my algorithms efficient, and my coffee... probably o
 
   **Learning next:** Rust 🦀
 
+  **Growing comfortable with:** PyTorch and TensorFlow
+
   **Already coding in:** Python and C++
 
   **Always exploring:** How the math and algorithms turn into intelligent systems
